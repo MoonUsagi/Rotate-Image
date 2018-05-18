@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\資料\opencv3.3\旋轉\旋轉\source.cpp(16): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\資料\opencv3.3\旋轉\旋轉\source.cpp(17): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\資料\opencv3.3\旋轉\旋轉\source.cpp(23): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\資料\opencv3.3\旋轉\旋轉\source.cpp(24): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  旋轉.vcxproj -> C:\資料\OpenCV3.3\旋轉\x64\Debug\旋轉.exe
+  旋轉.vcxproj -> C:\資料\OpenCV3.3\旋轉\x64\Debug\旋轉.pdb (Full PDB)
